@@ -12,27 +12,29 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Contents ##
 
-- [General Libraries](#general-libraries)
-- [Multimedia](#multimedia)
+- [Awesome Pascal ](#awesome-pascal-)
+	- [Contents](#contents)
+	- [General Libraries](#general-libraries)
+	- [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
 	- [Graphic](#graphic)
-- [Game dev](#game-dev)
-- [Communications](#communications)
+	- [Game dev](#game-dev)
+	- [Communications](#communications)
 	- [Network](#network)
-	- [Cloud & remote services](#cloud-remote-services)
+	- [Cloud \& remote services](#cloud--remote-services)
 	- [Serial port](#serial-port)
 	- [Event bus](#event-bus)
-- [GUI](#gui)
+	- [GUI](#gui)
 	- [Control packs](#control-packs)
 	- [Single controls](#single-controls)
 	- [Editors](#editors)
 	- [Viewers](#viewers)
 	- [Other GUI](#other-gui)
-- [Database](#database)
-- [Scripting](#scripting)
-- [Machine Learning](#machine-learning)
-- [Non-visual Classes/Utils](#non-visual-classesutils)
+	- [Database](#database)
+	- [Scripting](#scripting)
+	- [Machine Learning](#machine-learning)
+	- [Non-visual Classes/Utils](#non-visual-classesutils)
 	- [Compression](#compression)
 	- [Encryption](#encryption)
 	- [XML/JSON/YAML/HTML](#xmljsonyamlhtml)
@@ -44,14 +46,14 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Math](#math)
 	- [Command-line](#command-line)
 	- [Other non-visual](#other-non-visual)
-- [OS](#os)
-- [Report generating](#report-generating)
-- [Unit Testing](#unit-testing)
-- [Debugging / error handling](#debugging--error-handling)
-- [Utilities](#utilities)
+	- [OS](#os)
+	- [Report generating](#report-generating)
+	- [Unit Testing](#unit-testing)
+	- [Debugging / error handling](#debugging--error-handling)
+	- [Utilities](#utilities)
 	- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
 	- [Plugins for other IDE's](#plugins-for-other-ides)
-    - [Pascal Color Utility](#pascal-color-utility)
+	- [Pascal Color Utilities](#pascal-color-utilities)
 	- [Documentation](#documentation)
 	- [Code check/review, debug](#code-checkreview-debug)
 	- [Setup](#setup)
@@ -1213,8 +1215,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [ResEd](https://github.com/chaosben/theunknownones). Expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
 
 * [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
-  
-* [Pascal Color Utility](https://github.com/QuantumPixelator/PascalUtilities) - Lightweight unit for cross-platform ANSI terminal styling and Windows 10+ virtual terminal support.
 
 * [DelphiSettingManager](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
 
@@ -1265,6 +1265,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Pascal](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
 
 * [Intellij IDEA Object Pascal plugin](https://github.com/casteng/i-pascal) `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
+
+
+## Pascal Color Utilities
+
+* [Pascal Color Utilities](https://github.com/QuantumPixelator/PascalUtilities). `[Delphi]` `[FPC]` Lightweight unit for cross-platform ANSI terminal styling and Windows 10+ virtual terminal support.
 
 
 ## Documentation
